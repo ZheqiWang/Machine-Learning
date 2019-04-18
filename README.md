@@ -5,7 +5,7 @@ using for machine learning course
 Lab1-HFYW.ipynb: the jupyter notebook version report<br>
 Lab1-HFYW.html: the final version report of machine learning lab1<br>
 Dataset: Sydney weather.csv<br>  
-Title: Exploring Table Data - using pandas & sklearn analyze data, data virtualization, t-SNE dimensionality reduction methods<br>
+Title: Exploring Table Data-using pandas & sklearn analyze data, data virtualization, t-SNE dimensionality reduction methods<br>
 
 # Lab2
 Lab2-HYFW.ipynb: the jupyter notebook version<br>
@@ -15,7 +15,7 @@ Dataset: https://www.kaggle.com/jenny18/honey-bee-annotated-images<br>
 # Lab3
 Lab3-HYFW.ipynb: the jupyter notebook version report<br>
 Title: Extending Logistic Regression<br>
-Dataset: <br>
+Dataset: winequality-red.csv<br>
 
 # Lab4
 Lab4-HYFW.ipynb: the jupyter notebook version report<br>
