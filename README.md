@@ -2,12 +2,12 @@
 using for machine learning course
 
 # Lab1
-Lab1-HFYW.ipynb: the jupyter notebook version report
-Lab1-HFYW.html: the final version report of machine learning lab1
-Dataset: Sydney weather.csv
-Title: Exploring Table Data - using pandas & sklearn analyze data
-                            - data virtualization
-                            - t-SNE dimensionality reduction methods
+Lab1-HFYW.ipynb: the jupyter notebook version report . 
+Lab1-HFYW.html: the final version report of machine learning lab1 . 
+Dataset: Sydney weather.csv  
+Title: Exploring Table Data - using pandas & sklearn analyze data . 
+                            - data virtualization . 
+                            - t-SNE dimensionality reduction methods . 
 
 # Lab2
 Lab2-HYFW.ipynb: the jupyter notebook version.
